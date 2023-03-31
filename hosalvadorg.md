@@ -1,10 +1,15 @@
 # Hola, Bienvenidos !! 👋
 
-![hola](./assets/programming-laptop.png)
+<div style="text-align: center">
+  <img src="./assets/programming-laptop.png" alt="programando">
+</div>
+
 > No es quien termina primero sino como llegas a serlo!! 💪🙌
 
-## 🚀 About Me
-Soy Heyner Salvador de Perú. Mi meta es convertirme en Fullstack Developer y formar parte de este grandioso mundo, amante de la tecnologia, la programación y la cultura pop.
+## 🚀 Sobre Mí
+Soy Heyner Salvador de Perú. Mi meta es convertirme en Fullstack Developer y formar parte de este grandioso mundo. Actualmente tengo poco conocimiento de HTML y CSS por lo que estoy siguiendo el Bootcamp Javascript Full-stack impartido por Guillermo Rodas, con el objetivo de obtener mas conocimientos de todo lo que contempla esta gama de ramas que conforman el Desarrollo Web.
+
+Amante de la tecnologia, la programación y la cultura pop.
 
 Por ultimo ....
 
